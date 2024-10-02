@@ -9,7 +9,7 @@
 
 ## Deployment platform used:
   - Render – for both back end and front end 
-  - Mobile App – APK build (Note: the APK file in mobile phone is not working as it requires permission for the internet)
+  - Mobile App – APK build (Note: the APK file in mobile phone requires permission for the internet)
 
 ## WebSocket:
   - socket.io is used. 
